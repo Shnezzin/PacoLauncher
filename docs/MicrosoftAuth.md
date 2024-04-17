@@ -1,4 +1,4 @@
-# Microsoft  Authentication
+# Microsoft Authentication
 
 Authenticating with Microsoft is fully supported by Helios Launcher.
 
